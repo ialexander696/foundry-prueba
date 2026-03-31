@@ -5,11 +5,11 @@
   "version": "1.0.0",
 
   "url":
-  "https://github.com/ialexander696/foundry-prueba",
+  "https://github.com/ialexander696/Idraco696Maps",
   "manifest":
-  "https://github.com/ialexander696/foundry-prueba/releases/download/1.1.1/module.json",
+  "https://github.com/ialexander696/Idraco696Maps/releases/download/1.1.1/module.json",
   "download":
-  "https://github.com/ialexander696/foundry-prueba/releases/download/1.1.1/idraco.zip",
+  "https://github.com/ialexander696/Idraco696Maps/releases/download/1.1.1/idraco.zip",
   
   "compatibility": {
     "minimum": "13",
